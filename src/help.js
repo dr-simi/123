@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	return `
-┏━━❉ *About Bot* ❉━━┓
+┏━━❉ * Ω DR SIMI Ω * ❉━━┓
 ┣⊱ *${prefix}owner*
 ┣⊱ *${prefix}donasi*
 ┣⊱ *${prefix}info*
@@ -84,7 +84,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}setpp*
 ┣⊱ *${prefix}setprefix*
 ┣━━━━━━━━━━━━━━
-┃    *BOT BY AFFIS*
+┃    *BOT BY Ω DR SIMI Ω *
 ┗━━━━━━━━━━━━━━
 
 `
